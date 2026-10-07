@@ -1,2 +1,2 @@
 # Proyecto-RUNWAY
-Este repositorio es diseñado para la asignatura de programación y diseño de aplicaciones.
+Este desarrollo web esta diseñado para ofrecer una experiencia digital enfocada en el mundo de la moda, donde los usuarios pueden descubrir las últimas tendencias, colecciones, diseñadores, estilos y novedades de la industria.
